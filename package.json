@@ -16,13 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/voronianski/react-swipe.git"
+    "url": "git://github.com/PythonicNinja/react-swipe.git"
   },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.0",
-    "swipe-js-iso": "^2.0.3",
+    "swipe-js-iso": "github:voronianski/swipe-js-iso",
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
